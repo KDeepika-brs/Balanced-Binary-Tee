@@ -8,4 +8,4 @@
 
 ##### After recursively computing the height of the entire tree, the flag variable is returned, which will be true if the tree is balanced and false otherwise.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Balanced-Binary-Tee/).
